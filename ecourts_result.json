@@ -1,0 +1,13 @@
+{
+  "query": {
+    "cnr": "DLND020123452022"
+  },
+  "checked_date": "2025-10-19",
+  "method": "selenium_interactive",
+  "found": false,
+  "matches": [],
+  "notes": [
+    "Case not found in the displayed cause list content."
+  ],
+  "cause_list_pdf": "cause_list_2025-10-19.pdf"
+}
